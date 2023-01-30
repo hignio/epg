@@ -162,8 +162,8 @@
     <icon src="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/CPSER.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="HOLLYWOOD HD">
-    <display-name lang="es">HOLLYWOOD HD</display-name>
+  <channel id="HOLLYWOODHD">
+    <display-name lang="es">HOLLYWOODHD</display-name>
     <display-name lang="es">HOLLYWOOD FULL HD</display-name>
     <display-name lang="es">HOLLYWOOD 4K</display-name>
     <icon src="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/HOLLYW.png" />
@@ -40609,7 +40609,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230130050400 +0100" stop="20230130065200 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230130050400 +0100" stop="20230130065200 +0100" channel="HOLLYWOODHD">
     <title lang="es">Striptease</title>
     <desc lang="es">Una ex-funcionaria del FBI se ve obligada a hacer "top less" para reunir el dinero que le permita custodiar a su hija. Cuando un mafioso se queda prendado de ella, se desencadena una complicada trama de chantajes y muertes.</desc>
     <credits>
@@ -40634,7 +40634,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230130065200 +0100" stop="20230130090200 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230130065200 +0100" stop="20230130090200 +0100" channel="HOLLYWOODHD">
     <title lang="es">Tin Cup</title>
     <desc lang="es">Tin Cup es un temperamental jugador de golf que se enamora de la novia de su mayor rival. Para conseguir su amor decide participar en el Open USA, la prueba más prestigiosa del circuito.</desc>
     <credits>
@@ -40662,7 +40662,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230130090200 +0100" stop="20230130104500 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230130090200 +0100" stop="20230130104500 +0100" channel="HOLLYWOODHD">
     <title lang="es">Días de trueno</title>
     <title lang="en">Days of Thunder</title>
     <desc lang="es">Cole (Tom Cruise, nominado al Oscar al Mejor Actor por "Nacido el 4 de julio" y "Jerry Maguire") es un joven piloto de los circuitos de carreras que tiene mucho talento, pero no sabe cómo canalizarlo para lograr el éxito. Cuando Tim Daland (Randy Quaid) encarga a Harry (Robert Duvall, Oscar al Mejor Actor por "Tender Mercies (Gracias y favores)"), un corredor veterano, que le construya un coche y contrata a Cole para que lo conduzca, Harry deberá inculcarle a Cole su filosofía sobre ganar y enseñarle a canalizar su talento natural. Sin embargo, Cole no tardará en tener problemas con el piloto estrella del circuito, Rowdy Burns (Michael Rooker), hasta el punto de acabar los dos en el hospital tras una serie de piruetas en la pista. A causa de las heridas, Rowdy se ve obligado a abandonar la competición y ahora Cole tendrá su gran oportunidad. En el reparto también figura Nicole Kidman (Oscar a la Mejor Actriz por "Las Horas"). Apasionante película que cuenta con muy buenas escenas de carreras además de una banda sonora muy bien realizada por Hans Zimmer (Oscar por "El rey león") y que fue nominada al Oscar al Mejor Sonido.</desc>
@@ -40691,7 +40691,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230130104500 +0100" stop="20230130124800 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230130104500 +0100" stop="20230130124800 +0100" channel="HOLLYWOODHD">
     <title lang="es">Duelo de titanes</title>
     <title lang="en">Gunfight at the O.K. Corral</title>
     <desc lang="es">Fort Griffin, 1870. Wyatt Earp, Sheriff de Dogde City, famoso en el Oeste por su honradez, llega al lugar siguiendo el rastro de los forajidos, Ike Clanton y Johnny Ringo, pero éstos, con la complicidad del sheriff Cotton Wilson, han huido de la ciudad. Allí conoce a un dentista retirado y alcohólico, vehemente y jugador llamado Doc Holliday, al que salva la vida. Tiempo después los dos vuelven a coincidir en Dodge City, donde Doc se ha instalado como jugador de ventaja. Allí aparece la bella Laura Denbow, también conocida jugadora, de la que el sheriff acaba enamorándose. Una noche el Sheriff sale en busca de tres ladrones de bancos, insistiendo Doc en acompañarle. Gracias a ello Wyatt salva la vida al ser atacado por los bandidos, ya que la rapidez de Doc con el revólver elimina a sus atacantes. A partir de entonces, entre ambos nace una amistad firme y duradera. Poco después, Wyatt es llamado para socorrer a tres hermanos suyos, Virgil, Morgan y Jimmy, que están en peligro de ser aniquilados por los Clanton, ahora dedicados a robar ganado. Doc va detrás del Sheriff y junto a él y a los hermanos de Wyatt, interviene en un duelo a muerte que tiene lugar en el rancho O.K. Corral, en contra de los forajidos. Tras la lucha, Wyatt acaba renunciado a su cargo de Sheriff, decidiendo regresar a Dodge para casarse con Laura y empezar una nueva vida sin violencias. Por su parte, Doc, enfermo de tuberculosis, reanuda su vida de tahúr, convencido de que la muerte puede llegarle en cualquier momento.</desc>
@@ -40720,7 +40720,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230130124800 +0100" stop="20230130151900 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230130124800 +0100" stop="20230130151900 +0100" channel="HOLLYWOODHD">
     <title lang="es">El imperio del sol</title>
     <title lang="en">Empire of the Sun</title>
     <desc lang="es">Jim Graham, un niño británico de clase alta, vive en Shangai a principios de los años 40. Es un niño de once años mimado y protegido que de la noche a la mañana comienza a padecer los desastres y las consecuencias de la invasión japonesa durante la II Guerra Mundial. Mientras su familia decide huir, él se pierde en la calle, se queda solo y es enviado a un campo de concentración, donde tendrá que enfrentarse a las dificultades mientras conoce todo tipo de penurias. Allí va madurando y aprendiendo de la vida gracias a un curioso personaje.</desc>
@@ -40750,7 +40750,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230130151900 +0100" stop="20230130181700 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230130151900 +0100" stop="20230130181700 +0100" channel="HOLLYWOODHD">
     <title lang="es">¿Conoces a Joe Black?</title>
     <title lang="en">Meet Joe Black</title>
     <desc lang="es">Por un lado, Susan se encuentra en un restaurante y comienza a hablar con un desconocido que se ha fijado en ella. Conversan durante un buen rato y después cada quién se va por su lado. El chico queda tan impactado con ella que, una vez en la calle, cruza sin mirar y es arrollado brutalmente por un camión. Por otro lado, la muerte siente curiosidad por ver cómo es ser un mortal y decide tomar, temporalmente, el cuerpo del chico muerto para ver que se siente. Así, la muerte, se presenta ante William Parrish, un hombre mayor y acaudalado, a punto de cumplir años, que sabe que no le queda mucho de vida, y que está preparando una gran fiesta de despedida. La muerte, que se hace llamar Joe Black, y que ha venido a llevárselo, le propone un trato: que le enseñe cómo es la vida de un mortal y lo ayudará a terminar con sus preocupaciones antes de irse al otro mundo. Así, Joe Black le da la oportunidad de retrasar su final a cambio de enseñarle algo que desconoce: la propia vida. Joe Black, enigmático, inocente, con curiosidad infantil por todas las cosas de la tierra, que respeta a la gente pero que a la vez tiene una misión que cumplir, permanece en la casa de Parrish como si fuera un colaborador íntimo de su trabajo, a la vez que va descubriendo las relaciones y las emociones humanas con gran curiosidad. En la casa coincidirá con Susan, la hija de Parrish y la chica del restaurante, pero Joe no la reconocerá. Sin embargo, Susan, que aún siente una fuerte atracción por Joe desde que le conoció, va a desempeñar un papel importante en el aprendizaje de Joe, que se enamorará de Susan, y a la que ayuda a deshacer un complot en la empresa de su moribundo padre. El inesperado enamoramiento de Joe y su relación con Susan alterarán su destino.</desc>
@@ -40779,7 +40779,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230130181700 +0100" stop="20230130200400 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230130181700 +0100" stop="20230130200400 +0100" channel="HOLLYWOODHD">
     <title lang="es">Contagio</title>
     <title lang="en">Contagion</title>
     <desc lang="es">Cuando Beth Emhoff regresa a Minneapolis de un viaje de negocios en Hong Kong, lo que pensó que era 'jet lag' se transforma en algo fatal. Dos días después, muere en la sala de urgencias y los doctores le dicen a su impactado y desconsolado esposo que no tienen idea de la causa. Pronto, otros sufren los mismos síntomas misteriosos: tos seca y fiebre, ataques y hemorragias cerebrales y, finalmente, la muerte. En Minneapolis, Chicago, Londres, París, Tokio y Hong Kong, los números se multiplican con rapidez: un caso se convierte en cuatro, luego dieciséis, luego cientos, miles. Una pandemia mundial estalla.</desc>
@@ -40808,7 +40808,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230130200400 +0100" stop="20230130220300 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230130200400 +0100" stop="20230130220300 +0100" channel="HOLLYWOODHD">
     <title lang="es">Expediente X</title>
     <title lang="en">The X-Files</title>
     <desc lang="es">Los agentes especiales del FBI Fox Mulder y Dana Scully son inculpados de la explosión que ha derribado un edificio en Dallas y causado la muerte de varias personas. Con la destrucción, además, se han perdido innumerables documentos de gran valor. Ante la injusta acusación que recae sobre ellos, ambos inician la investigación para demostrar su inocencia.</desc>
@@ -40837,7 +40837,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230130220300 +0100" stop="20230131000500 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230130220300 +0100" stop="20230131000500 +0100" channel="HOLLYWOODHD">
     <title lang="es">Godzilla</title>
     <desc lang="es">Filipinas, 1999. Durante unas prospecciones en busca de uranio, el fondo de un valle se hunde sobre una enorme cueva en la que aparecen unos extraños fósiles y, quizá, algo más. En Janjira, Japón, el Ingeniero Jefe de una central nuclear intenta alertar sobre los peligros de una anomalía sísmica que se acerca a la fábrica.</desc>
     <credits>
@@ -40865,7 +40865,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230131000500 +0100" stop="20230131021400 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230131000500 +0100" stop="20230131021400 +0100" channel="HOLLYWOODHD">
     <title lang="es">Mystic River</title>
     <desc lang="es">En un barrio de Boston, a finales de la década de 1970, los niños Jimmy Markum, Dave Boyle y Sean Devine juegan al hockey en la calle. De pronto, un coche ocupado por dos hombres se para delante de ellos y obliga a uno de los niños a subir al vehículo.</desc>
     <credits>
@@ -40892,7 +40892,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230131021400 +0100" stop="20230131041800 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230131021400 +0100" stop="20230131041800 +0100" channel="HOLLYWOODHD">
     <title lang="es">Repo Men</title>
     <desc lang="es">En "Repo Men" los hombres han ampliado y mejorado su esperanza de vida gracias a unos órganos mecánicos muy sofisticados y caros fabricados por la empresa The Union. Pero este gran avance tecnológico tiene un lado oscuro: si alguien no puede pagar la factura, The Union manda a sus especialistas, los Repo Men, para que recuperen el órgano en cuestión, sin preocuparse del dolor o de la supervivencia del cliente. Jude Law es Remy, uno de los mejores Repo Men de la empresa. Durante su horario laboral sufre un infarto, pero se despierta con el mejor corazón mecánico del mercado, y de paso, con una deuda sustancial. Curiosamente, un efecto secundario del trasplante es que ha dejado de interesarle su trabajo. Cuando no puede hacer frente a los pagos, The Union manda a Jake (Forest Whitaker), el durísimo ex compañero de Remy, a por él. El cazador se ha convertido en presa. Remy se une a Beth (Alice Braga), otra perseguida que le enseña cómo desaparecer del sistema. Jake y Remy se embarcan en una persecución por un mundo poblado de amigos y enemigos.</desc>
     <credits>
@@ -40920,7 +40920,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230131041800 +0100" stop="20230131055400 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230131041800 +0100" stop="20230131055400 +0100" channel="HOLLYWOODHD">
     <title lang="es">Star Trek: Insurrección</title>
     <title lang="en">Star Trek: Insurrection</title>
     <desc lang="es">Jean-Luc Picard, capitán de la nave Enterprise, comienza a investigar sobre una extraña misión que está llevando a cabo un equipo de la agonizante raza Son'a, y que consiste en la observación de la raza Ba'ku. Pronto Picard descubre que los Ba'ku, que viven en un poblado aparentemente normal, son seres de aspecto joven pero con más de 300 años de edad.</desc>
@@ -40949,7 +40949,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230131055400 +0100" stop="20230131073500 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230131055400 +0100" stop="20230131073500 +0100" channel="HOLLYWOODHD">
     <title lang="es">Star Trek: Némesis</title>
     <title lang="en">Star Trek: Nemesis</title>
     <desc lang="es">El capitán Jean-Luc Picard y el resto de la tripulación de la Enterprise vuelven al espacio en una misión diplomática cuyo objeto es firmar la paz con los romulanos. Sin embargo, al llegar al planeta alienígena, la tripulación se encuentra con una amenaza que podría llevar a la destrucción de la Tierra.</desc>
@@ -40978,7 +40978,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230131073500 +0100" stop="20230131092300 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230131073500 +0100" stop="20230131092300 +0100" channel="HOLLYWOODHD">
     <title lang="es">Algo Prestado</title>
     <title lang="en">Something Borrowed</title>
     <desc lang="es">Rachel es una prestigiosa abogada de una importante firma de abogados de Nueva York que todavía permanece soltera. Su vida  se complica cuando decide celebrar su treinta cumpleaños  acostándose con el prometido de su mejor amiga.</desc>
@@ -41007,7 +41007,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230131092300 +0100" stop="20230131110200 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230131092300 +0100" stop="20230131110200 +0100" channel="HOLLYWOODHD">
     <title lang="es">Aloha</title>
     <desc lang="es">Brian Gilcrest, un contratista en materia de Defensa, supervisa el lanzamiento de un satélite desde Hawái junto a una piloto de las Fuerzas Aéreas, Allison, por la que comienza a sentir algo. En la isla se reencontrará con el viejo amor de su vida.</desc>
     <credits>
@@ -41035,7 +41035,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230131110200 +0100" stop="20230131124900 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230131110200 +0100" stop="20230131124900 +0100" channel="HOLLYWOODHD">
     <title lang="es">El Príncipe y yo</title>
     <title lang="en">The Prince &amp; Me</title>
     <desc lang="es">Esta entretenida comedia romántica, basada en hechos reales, fue dirigida por Martha Coolidge. En una universidad de Wisconsin, Paige Morgan (Julia Stiles), la hija de un granjero, se siente intrigada por un extraño estudiante danés de intercambio, Eddie (Luke Mably), del cual se enamora y que resultará ser un príncipe danés.</desc>
@@ -41064,7 +41064,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230131124900 +0100" stop="20230131141900 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230131124900 +0100" stop="20230131141900 +0100" channel="HOLLYWOODHD">
     <title lang="es">El origen de los guardianes</title>
     <title lang="en">Rise of the Guardians</title>
     <desc lang="es">Una oscura amenaza pretende robarles a los niños sus esperanzas y sus sueños: es el perverso Sombra, que quiere conquistar el mundo sembrando el miedo. Cuatro personajes legendarios -Norte (Santa Claus), el Conejo de Pascua, el Hada de los Dientes y Sandman el Creador de Sueños-, conocidos como los Guardianes, buscarán la ayuda del reticente Jack Escarcha para enfrentarse a Sombra en una batalla épica que salvaguarde la inocencia y la imaginación de los niños de todas las edades.</desc>
@@ -41091,7 +41091,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230131141900 +0100" stop="20230131155500 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230131141900 +0100" stop="20230131155500 +0100" channel="HOLLYWOODHD">
     <title lang="es">Las brujas</title>
     <title lang="en">Le Streghe</title>
     <desc lang="es">Cinco de los mejores directores italianos investigan el poder que ejercen las mujeres en la sociedad moderna.</desc>
@@ -41117,7 +41117,7 @@
       <value>4.0</value>
     </star-rating>
   </programme>
-  <programme start="20230131155500 +0100" stop="20230131190900 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230131155500 +0100" stop="20230131190900 +0100" channel="HOLLYWOODHD">
     <title lang="es">El señor de los anillos: el retorno del rey</title>
     <title lang="en">The Lord of the Rings: the Return of the King</title>
     <desc lang="es">El director neozelandés Peter Jackson cierra con esta tercera entrega de la saga "El señor de los anillos" su gesta de trasladar a la pantalla grande, con espectacular éxito de público y crítica, la mítica trilogía publicada por J.R.R. Tolkien en 1954. El trasfondo de este mundo de fantasía, en el que el Bien y el Mal se representan en términos absolutos en constante conflicto e interrelación, es una epopeya sobre la amistad y la tolerancia, los héroes fortuitos, el destino, la lealtad y la esperanza.</desc>
@@ -41148,7 +41148,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230131190900 +0100" stop="20230131220000 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230131190900 +0100" stop="20230131220000 +0100" channel="HOLLYWOODHD">
     <title lang="es">Quo Vadis</title>
     <title lang="en">Quo Vadis?</title>
     <desc lang="es">Bajo el reinado de Nerón en la Roma clásica, un jefe de legión se enamora de una cristiana. Las persecuciones que sufrían en aquella época los cristianos y el incendio de la ciudad no interfieren en el romance, hasta que les conducen a la arena del circo donde el pueblo quiere ver actuar a las fieras.</desc>
@@ -41176,7 +41176,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230131220000 +0100" stop="20230131235400 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230131220000 +0100" stop="20230131235400 +0100" channel="HOLLYWOODHD">
     <title lang="es">La trampa</title>
     <title lang="en">Entrapment</title>
     <desc lang="es">Sin sospecharlo, el famosísimo ladrón de guante blanco Robert "Mac" MacDougal está a punto de caer en la trampa del sinuoso juego de la investigadora de seguros Gim Baker, que le ayuda a preparar el más grande y espectacular robo de la historia. Se trata de la trampa policial mejor tendida jamás, en la que se ha previsto cualquier incidente y preparado cada detalle, salvo uno, la febril atracción que nace entre ellos. Mac tiene una reputación intachable como experto ladrón de arte al que la policía todavía no ha podido atrapar infraganti. Para darle caza definitiva, la sensual agente de seguros Gin Baker le propone a su jefe tenderle una trampa y recuperar así los 24 millones de dólares perdidos en el último robo. Sin embargo Mac se muestra mucho más escurridizo de lo previsto y Gin tendrá que emplear todas sus dotes y sus encantos para conseguir engañarle haciéndose pasar por su socia en el crimen. Juntos forman una pareja peligrosa que comienza a trabajar conjuntamente en un próximo golpe. Será en Kuala Lumpur, en la ultrasofisticadísima sede de un banco internacional en la capital de Malasia, donde esperan hacerse con varios millones de dólares aprovechando el caos de la celebración durante el cambio de milenio.</desc>
@@ -41206,7 +41206,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230131235400 +0100" stop="20230201021500 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230131235400 +0100" stop="20230201021500 +0100" channel="HOLLYWOODHD">
     <title lang="es">Tiempo de matar</title>
     <title lang="en">A Time to Kill</title>
     <desc lang="es">En una tranquila localidad sureña de Mississippi dos jóvenes borrachos violan salvajemente a una niña negra de diez años. La mayoría blanca de la ciudad se muestra horrorizada ante tan atroz crimen, hasta que Carl Lee, el padre de Tonya, armado con un rifle de asalto, decide tomarse la justicia por su cuenta y mata a los violadores de su hija. Durante diez días, mientras la tensión va creciendo y reaparecen en las calles de Clanton las cruces ardiendo del Ku Klux Klan, Jake Brigance, un jóven abogado blanco, hará todo lo posible para salvar la vida de Carl Lee, mientras trata de no perder la suya.</desc>
@@ -41235,7 +41235,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230201021500 +0100" stop="20230201043600 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230201021500 +0100" stop="20230201043600 +0100" channel="HOLLYWOODHD">
     <title lang="es">Oficial y caballero</title>
     <title lang="en">An Officer and a Gentleman</title>
     <desc lang="es">Tras una amarga infancia, Zack Mayo (Richard Gere) pasa su adolescencia en Filipinas donde está destinado su padre, Suboficial Jefe de la Marina (Robert Loggia), que desatiende la educación de su hijo. Zack tiene que abrirse paso estudiando por su cuenta para ingresar en la Escuela de Oficiales de Aviación Naval en Port Rainier. El ingreso pasa por una durísima prueba de trece semanas de entrenamiento a cargo del sargento Foley (Louis Gossett, Jr.), una verdadera pesadilla para los aspirantes. Zack, magníficamente preparado, va superando toda clase de pruebas, salvando las trampas que le tiende el sargento, pero sin llegar a integrarse entre los demás aspirantes. Su único amigo es Sid Worley (David Keith), un compañero con el que el día del Baile del Regimiento comparte una cita doble con dos chicas del pueblo. Zack se empareja con Paula Pokrifki (Debra Winger) y, aunque es reservado e introvertido, encuentra en Paula alguien que le ayuda a descargar la tensión acumulada en la escuela. Pasa a su lado unos deliciosos fines de semana, pero en uno de ellos, se ve envuelto en un sucio negocio de contrabando. Alguien ha puesto en su cama las pruebas necesarias para que Foley le acuse a él como único culpable. Foley trata de que Zack renuncie a seguir, pero la fuerza de voluntad de éste es suficiente para enfrentarse a un nuevo problema.</desc>
@@ -41263,7 +41263,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230201043600 +0100" stop="20230201060500 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230201043600 +0100" stop="20230201060500 +0100" channel="HOLLYWOODHD">
     <title lang="es">Señalado por la muerte</title>
     <title lang="en">Marked For Death</title>
     <desc lang="es">John Hatcher es un agente de la división antidroga de Chicago. Acaba de volver de Colombia donde su compañero ha sido asesinado por un narcotraficante. Esto ha motivado que Hatcher decida retirarse.</desc>
@@ -41293,7 +41293,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230201060500 +0100" stop="20230201072900 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230201060500 +0100" stop="20230201072900 +0100" channel="HOLLYWOODHD">
     <title lang="es">Negocios con resaca</title>
     <title lang="en">Unfinished Business</title>
     <desc lang="es">Harto de los recortes en su sueldo y de los malos modos de su jefa, Dan Trunkman decide dejar la empresa en la que trabaja como comercial y montar su propio negocio.</desc>
@@ -41322,7 +41322,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230201072900 +0100" stop="20230201085200 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230201072900 +0100" stop="20230201085200 +0100" channel="HOLLYWOODHD">
     <title lang="es">Spy Kids</title>
     <desc lang="es">Gregory e Ingrid, dos agentes secretos que se retiraron tras formar una familia, se ven obligados a volver a la acción cuando sus antiguos compañeros comienzan a desaparecer.</desc>
     <credits>
@@ -41352,7 +41352,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230201085200 +0100" stop="20230201101500 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230201085200 +0100" stop="20230201101500 +0100" channel="HOLLYWOODHD">
     <title lang="es">Beethoven, uno más de la familia</title>
     <title lang="en">Beethoven</title>
     <desc lang="es">Beethoven, un cachorro de San Bernardo, consigue huir milagrosamente de las garras de una banda de ladrones que ha entrado a robar en la tienda donde estaba el animal. Tras pasar la noche en un frío y húmedo cubo de basura, Beethoven despierta en el hogar de sus sueños: la casa de la familia Newton.</desc>
@@ -41382,7 +41382,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230201101500 +0100" stop="20230201121000 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230201101500 +0100" stop="20230201121000 +0100" channel="HOLLYWOODHD">
     <title lang="es">Un americano en París</title>
     <title lang="en">An American In Paris</title>
     <desc lang="es">Al terminar la Segunda Guerra Mundial, Jerry Mulligan un exsoldado, se queda a vivir en París porque consigue trabajo como pintor. Un día conoce a una americana millonaria que decide promocionarlo. Al mismo tiempo, conoce a una dependienta y se enamora.</desc>
@@ -41409,7 +41409,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230201121000 +0100" stop="20230201135000 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230201121000 +0100" stop="20230201135000 +0100" channel="HOLLYWOODHD">
     <title lang="es">17 otra vez</title>
     <title lang="en">17 Again</title>
     <desc lang="es">A los 35 años, Mike no ha tenido la vida exitosa que preveía. Tras caer a un río, se da cuenta de que vuelve a ser un adolescente de 17 años.</desc>
@@ -41437,7 +41437,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230201135000 +0100" stop="20230201161000 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230201135000 +0100" stop="20230201161000 +0100" channel="HOLLYWOODHD">
     <title lang="es">Superman</title>
     <desc lang="es">El planeta Krypton va a ser inminentemente destruído y el científico Jor-El introduce a su hijo, un bebé inofensivo, en una nave que lo conduzca a la Tierra y lo salve de una muerte segura. Adoptado por la familia Kent, el niño crece bajo el nombre de Clark y desde pequeño muestra una fuerza extraordinaria. Años más tarde, una vez terminados sus estudios de periodismo, Clark empieza a trabajar en un periódico, profesión que compagina con sus hazañas como superhéroe que ayuda a la humanidad contra el crimen, con poderes para volar, fuerza extrema y que se hace llamar Superman. Ni siquiera su compañera de trabajo Lois Lane, de la que Clark está enamorado, sospecha que este chico torpe, enfermizo y miedoso pueda ser el superhéroe que tiene fascinada a toda la ciudad. Mientras Superman continúa protegiendo a los ciudadanos, entre Lois y Clark parece que empieza a surgir una historia de amor que quedará relegada a un segundo plano cuando el villano Lex Luthor ponga en acción un plan diabólico para apoderarse del planeta y acabar con la vida del superhéroe.</desc>
     <credits>
@@ -41467,7 +41467,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230201161000 +0100" stop="20230201180400 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230201161000 +0100" stop="20230201180400 +0100" channel="HOLLYWOODHD">
     <title lang="es">Un amor entre dos mundos</title>
     <title lang="en">Upside Down</title>
     <desc lang="es">Adam conserva en la memoria el recuerdo de Eden, una chica que conoció en un mundo, que se halla fuera de su alcance. Cuando vuelve a verla, tratará de encontrar una manera para llegar hasta ella.</desc>
@@ -41494,7 +41494,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230201180400 +0100" stop="20230201202300 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230201180400 +0100" stop="20230201202300 +0100" channel="HOLLYWOODHD">
     <title lang="es">Aliens</title>
     <desc lang="es">La única superviviente de la nave Nostromo, la teniente Ripley, ha pasado más de cincuenta años en hibernación viajando por el espacio. Un equipo de rescate encuentra su lanzadera y recibe su historia con escepticismo y desconfianza. El planeta del que Ripley habla fue colonizado veinte años atrás y no se encontró ningún rastro de la criatura que la teniente describe. Pero los colonos del planeta LV-426 comienzan a desaparecer y una expedición, a la que se suma la teniente, se dirige hacia allí para descubrir que sólo ha sobrevivido una niña de nueve años. La compañía armadora del Nostromo sigue interesada en conseguir un espécimen alienígena, y tanto Ripley como la niña, son las mejores candidatas para servir de anfitrión.</desc>
     <credits>
@@ -41524,7 +41524,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230201202300 +0100" stop="20230201220000 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230201202300 +0100" stop="20230201220000 +0100" channel="HOLLYWOODHD">
     <title lang="es">Mad Max, salvajes de autopista</title>
     <title lang="en">Mad Max</title>
     <desc lang="es">En un futuro cercano, en una Australia postapocalíptica, la sociedad se encuentra en una decadencia total y las bandas callejeras son las que imponen su ley, mientras un escuadrón policial intenta contener a los cada vez más numerosos grupos armados que atacan las carreteras.</desc>
@@ -41552,7 +41552,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230201220000 +0100" stop="20230202001000 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230201220000 +0100" stop="20230202001000 +0100" channel="HOLLYWOODHD">
     <title lang="es">Objetivo: La Casa Blanca</title>
     <title lang="en">Olympus Has Fallen</title>
     <desc lang="es">El accidente automovilístico que costó la vida a la Primera Dama estadounidense marcó la carrera del escolta del Presidente y agente del Servicio Secreto Mike Banning, quien decidió dejar su puesto y aceptar un nuevo trabajo como agente del Departamento del Tesoro. Sin embargo, cuando, años después, un grupo terrorista de Corea del Norte ataca la Casa Blanca, tomando como rehenes al presidente y a su gabinete, Banning se ve obligado a entrar de nuevo en acción.</desc>
@@ -41582,7 +41582,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230202001000 +0100" stop="20230202020100 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230202001000 +0100" stop="20230202020100 +0100" channel="HOLLYWOODHD">
     <title lang="es">Durmiendo con su enemigo</title>
     <title lang="en">Sleeping with the Enemy</title>
     <desc lang="es">Laura y Martin aparentan ser un matrimonio feliz: él es un hombre de negocios de éxito y ella es la perfecta ama de casa. Pero cuando Laura se casó con Martin no sospechaba que las pequeñas manías de su marido se acabarían convirtiendo en una auténtica obsesión.</desc>
@@ -41611,7 +41611,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230202020100 +0100" stop="20230202033000 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230202020100 +0100" stop="20230202033000 +0100" channel="HOLLYWOODHD">
     <title lang="es">El caballero negro</title>
     <title lang="en">Black Knight</title>
     <desc lang="es">Jamal Walker, afroamericano, tiene grandes planes de futuro, pero de momento debe conformarse con su trabajo en un parque temático medieval. Un día, tras un incidente, Jamal se ve transportado a la Inglaterra del siglo XIV. Primero está totalmente desconcertado, pero pronto pondrá sus conocimientos del siglo XXI en funcionamiento. Jamal se enrolará en una conspiración para destronar al rey tirano e incluso abrirá una cadena de restaurantes de comida rápida.Desde siempre, los viajes en el tiempo, y las consecuencias cómicas que de ellos se desprenden, han fascinado a literatos y cineastas. Una de las novelas más famosas acerca de este tema es ''Un yanqui en la corte del Rey Arturo'' de Mark Twain, que ha inspirado a muchas películas, entre ellas, ''El caballero negro''. Se trata de la segunda película del director Gil Junger, tras ''Diez razones para odiarte'' y un buen número de series de televisión. Junger pensó en el cómico Chris Tucker para interpretar al protagonista, pero éste prefirió participar en ''Hora punta 2''. Finalmente, el papel recayó en manos de otro cómico afroamericano, Martin Lawrence, a quien se ha visto, por ejemplo, en ''Esta abuela es un peligro''.</desc>
@@ -41636,7 +41636,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230202033000 +0100" stop="20230202053600 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230202033000 +0100" stop="20230202053600 +0100" channel="HOLLYWOODHD">
     <title lang="es">Océanos de fuego</title>
     <title lang="en">Hidalgo</title>
     <desc lang="es">Frank T. Hopkins es un antiguo vaquero que en su día fue considerado una leyenda viva. Sin embargo, los días de gloria a lomos de su caballo, un potro llamado Hidalgo, terminaron hace mucho tiempo. Frank e Hidalgo son proscritos en su propia tierra, así que cuando Hopkins se convierte, en 1890, en el primer estadounidense al que invitan a participar en el Océano de Fuego, una titánica carrera de supervivencia con un recorrido de 4.800 kilómetros por el inhóspito desierto de Arabia, no les queda más opción que estar a la altura. El cowboy tiene todas las de perder, así que la carrera se convierte, no sólo en una cuestión de honor, sino también en una lucha por sobrevivir. Juntos alcanzarán lo imposible.</desc>
@@ -41665,7 +41665,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230202053600 +0100" stop="20230202065500 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230202053600 +0100" stop="20230202065500 +0100" channel="HOLLYWOODHD">
     <title lang="es">Torque, rodando al límite</title>
     <title lang="en">Torque</title>
     <desc lang="es">El motorista Cary Ford regresa a su ciudad natal para reunirse con su novia, Shane. Cuando se marchó, Cary estaba en posesión de varias motos que pertenecían a Henry, jefe de la banda conocida como los Hellions. Ahora Henry quiere recuperar las motos, pero Ford no está dispuesto a cooperar.</desc>
@@ -41694,7 +41694,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230202065500 +0100" stop="20230202081000 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230202065500 +0100" stop="20230202081000 +0100" channel="HOLLYWOODHD">
     <title lang="es">El Sueño de una Noche de San Juan</title>
     <title lang="en">Midsummer Dream</title>
     <desc lang="es">Cuentan las leyendas que, un día al año, durante la noche de San Juan, los humanos pueden acceder al mundo mágico de los duendes y las hadas, un lugar donde reina la armonía y en el que los sueños se hacen realidad. Elena, una joven inteligente y poco soñadora, no cree en leyendas. Sin embargo, su padre, el duque Teseo, está muy enfermo y ella haría cualquier cosa por devolverle la ilusión, incluso iniciar un viaje en busca de Titania, la reina de las hadas, en compañía del escéptico banquero Demetrio y del fantasioso Lisandro, que hacen lo imposible por ganarse su afecto.Pero el mundo mágico, olvidado por los humanos, ya no es lo que era. Su rey, Oberón, es un duende juerguista y gordinflón dedicado a la venta al por mayor de hechizos, siempre secundado por su ayudante Perecho, un duende astuto y algo travieso.</desc>
@@ -41715,7 +41715,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230202081000 +0100" stop="20230202094400 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230202081000 +0100" stop="20230202094400 +0100" channel="HOLLYWOODHD">
     <title lang="es">Casper</title>
     <desc lang="es">Tras la muerte de su padre, la ambiciosa Carrigan espera heredar una extensa suma de dinero pero en la lectura del testamento descubre que solo recibirá la destartalada mansión Whipstaff en Maine. Cuando ella y su asistente se enteran de que hay un tesoro escondido en la casa, acuden a la misma y tratan de buscarlo con insistencia. Lo que ambos no esperan es que la mansión esté habitada por un simpático y joven fantasma, Casper, quien vive allí con sus tiranos y ácidos tíos Látigo, Tufo y Gordy.</desc>
     <credits>
@@ -41744,7 +41744,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230202094400 +0100" stop="20230202115100 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230202094400 +0100" stop="20230202115100 +0100" channel="HOLLYWOODHD">
     <title lang="es">Las cuatro plumas</title>
     <title lang="en">The Four Feathers</title>
     <desc lang="es">Harry Feversham es considerado por sus compañeros como uno de los mejores soldados británicos de su regimiento. A Harry se le presenta un prometedor futuro y una vida feliz junto a la mujer a la que ama, Ethne. Pero cuando un ejército de sudaneses rebeldes ataca la fortaleza colonial británica en Jartum y es llamado a filas al Norte de África, Harry se siente embargado por la duda y la incertidumbre y renuncia a su misión mientras los demás zarpan hacia la guerra.</desc>
@@ -41773,7 +41773,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230202115100 +0100" stop="20230202133500 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230202115100 +0100" stop="20230202133500 +0100" channel="HOLLYWOODHD">
     <title lang="es">Soul Surfer</title>
     <desc lang="es">La inspiradora historia real de Bethany Hamilton, una joven surfista. Bethany perdió su brazo izquierdo en el ataque de un tiburón tigre, pero con valentía y determinación logró superar todos los obstáculos para convertirse de nuevo en una campeona.</desc>
     <credits>
@@ -41796,7 +41796,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230202133500 +0100" stop="20230202154400 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230202133500 +0100" stop="20230202154400 +0100" channel="HOLLYWOODHD">
     <title lang="es">Superman II</title>
     <desc lang="es">Poco antes de la destrucción del planeta Krypton, los tres villanos Non, Ursa y el general Zod fueron condenados y encerrados en la Zona Fantasma, una prisión de energía en el espacio. En la Tierra, una organización terrorista ha colocado una bomba atómica en plena Torre Eiffel de París, repleta de personas entre las que se encuentra Lois, que está cubriendo un reportaje. Cuando Superman se entera de la noticia, se dirige a París, coge la bomba y la lanza lejos de la atmósfera de la Tierra. La poderosa bomba explota, y la onda expansiva se extiende por el espacio, alcanzando la prisión de los tres villanos de Krypton, que quedan libres.</desc>
     <credits>
@@ -41827,7 +41827,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230202154400 +0100" stop="20230202172900 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230202154400 +0100" stop="20230202172900 +0100" channel="HOLLYWOODHD">
     <title lang="es">Blancanieves. Mirror, Mirror</title>
     <title lang="en">Mirror, Mirror</title>
     <desc lang="es">Siete valerosos y rebeldes enanitos ayudarán a Blancanieves a prepararse para que pueda reclamar su derecho al trono, que le pertenece por nacimiento, y también a conseguir a su príncipe.</desc>
@@ -41858,7 +41858,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230202172900 +0100" stop="20230202195700 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230202172900 +0100" stop="20230202195700 +0100" channel="HOLLYWOODHD">
     <title lang="es">Robin Hood, príncipe de los ladrones</title>
     <title lang="en">Robin Hood: Prince of the Thieves</title>
     <desc lang="es">Después de ser capturados por los turcos durante las Cruzadas, Robin, hijo de Lord Locksley, y Azeem, un guerrero musulmán al que Robin salva la vida, huyen a Inglaterra. Una vez allí, Robin se entera de que su padre ha sido asesinado por el malvado Sheriff de Nottingham, que además se ha apoderado de sus tierras. Incapaz de conseguir ayuda por parte de Lady Marian Dubois, Robin se dirige a los bosques y se une a una banda de ladrones liderada por Pequeño John.</desc>
@@ -41889,7 +41889,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230202195700 +0100" stop="20230202220000 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230202195700 +0100" stop="20230202220000 +0100" channel="HOLLYWOODHD">
     <title lang="es">Batman Forever</title>
     <desc lang="es">La ciudad de Gotham está amenazada por un hombre, un antiguo fiscal del Estado, apodado "Dos caras", cuyo rostro está desfigurado a causa de las quemaduras que le produjo el ácido que le arrojaron durante un juicio. Intentará vengarse de la Humanidad y de Batman, a quien culpa de lo sucedido.</desc>
     <credits>
@@ -41919,7 +41919,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230202220000 +0100" stop="20230203001700 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230202220000 +0100" stop="20230203001700 +0100" channel="HOLLYWOODHD">
     <title lang="es">Prueba de vida</title>
     <title lang="en">Proof of Life</title>
     <desc lang="es">Peter Bowman, ingeniero jefe que supervisa la construcción de una presa en el país andino de Tecala, es capturado por fuerzas antigubernamentales durante una incursión en la capital. Cuando los secuestradores descubren su verdadera identidad, reclaman 3 millones de dólares como rescate para devolverlo sano y salvo. Sin embargo, la empresa de Peter está al borde de la bancarrota y acaba de cancelar la póliza de seguros contra secuestros, no pudiendo asumir el pago por su rescate.</desc>
@@ -41948,7 +41948,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230203001700 +0100" stop="20230203014700 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230203001700 +0100" stop="20230203014700 +0100" channel="HOLLYWOODHD">
     <title lang="es">D-Tox</title>
     <title lang="en">Eye See You</title>
     <desc lang="es">Silvester Stallone encarna a un agente del FBI que trata de escapar de las heridas del pasado refugiándose en la bebida. La oportunidad de recuperar su vida llega cuando tiene que resolver una serie de asesinatos en la aislada clínica de desintoxicación donde se encuentra ingresado.</desc>
@@ -41977,7 +41977,7 @@
       <value>6.0</value>
     </star-rating>
   </programme>
-  <programme start="20230203014700 +0100" stop="20230203031900 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230203014700 +0100" stop="20230203031900 +0100" channel="HOLLYWOODHD">
     <title lang="es">28 semanas después</title>
     <title lang="en">28 Weeks Later</title>
     <desc lang="es">Meses después de que la propagación del virus de la ira asolara a la población en Gran Bretaña, Don, uno de los supervivientes, aún tiene remordimientos por no haber podido salvar a su esposa. Afortunadamente, su vida mejora cuando vuelve al país la primera ola de refugiados y consigue reencontrarse con su hija adolescente Tommy y el pequeño Andy, que desconocen el fatal destino de su madre.</desc>
@@ -42007,7 +42007,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230203031900 +0100" stop="20230203050000 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230203031900 +0100" stop="20230203050000 +0100" channel="HOLLYWOODHD">
     <title lang="es">Matrimonio de conveniencia</title>
     <title lang="en">Green Card</title>
     <desc lang="es">George Faurè es un francés torpe y bonachón que quiere conseguir el permiso de residencia para poder trabajar en Estados Unidos. Brontë, por su parte, es una mujer reservada que no puede conseguir el apartamento que desea por no estar casada. Juntos deciden arreglar un matrimonio de conveniencia para poder conseguir sus respectivos propósitos; él seguir en Nueva York y ella vivir en el piso que adora.</desc>
@@ -42034,7 +42034,7 @@
       <value>8.0</value>
     </star-rating>
   </programme>
-  <programme start="20230203050000 +0100" stop="20230203074700 +0100" channel="HOLLYWOOD HD">
+  <programme start="20230203050000 +0100" stop="20230203074700 +0100" channel="HOLLYWOODHD">
     <title lang="es">Mensajero del futuro</title>
     <title lang="en">The Postman</title>
     <desc lang="es">Los Holnists, un ejército de brutales guerreros, domina un mundo devastado por una guerra nuclear. Pero surge un hombre capaz de llevar la comunicación a otras comunidades y su popularidad lo convierte en catalizador de una rebelión. Kevin Costner es el máximo responsable de esta película, en la que además de dirigir y producir, también protagonizó.</desc>
