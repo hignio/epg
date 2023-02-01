@@ -8,10 +8,8 @@
   </channel>
   <channel id="NEOX">
     <display-name lang="es">NEOX</display-name>
-    <url>http://www.movistarplus.es</url>
-  </channel>
-  <channel id="NEOX FULL HD">
     <display-name lang="es">NEOX FULL HD</display-name>
+    <icon src="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/NEOX.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="ARAGON TV INT">
@@ -2991,6 +2989,2454 @@
     <category lang="es">Música</category>
     <category lang="es">Videoclips</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNOVAP1232412" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230202060000 +0100" stop="20230202070000 +0100" channel="NEOX">
+    <title lang="es">Bestial</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Nacho Sierra se encarga de mostrar a la audiencia lo que da de sí el reino animal. En este espacio tienen cabida desde las mascotas más exóticas hasta los animales de campo, sin olvidar el trabajo de veterinarios, etólogos y otros profesionales afines al este ámbito.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP971380" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230202070000 +0100" stop="20230202100000 +0100" channel="NEOX">
+    <title lang="es">Neox Kidz</title>
+    <title lang="en">TEMPORADA 2021</title>
+    <desc lang="es">Edición especial del programa para celebrar las fiestas de Navidad.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1911139" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230202100000 +0100" stop="20230202121500 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 11</title>
+    <desc lang="es">Undécima temporada de la serie sobre Leonard y Sheldon, dos físicos muy peculiares.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+      <actor>Kevin Sussman</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1446814" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S11</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230202121500 +0100" stop="20230202151500 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 29</title>
+    <desc lang="es">Los Simpson son una familia políticamente incorrecta, de clase media, que habita en la ficticia localidad estadounidense de Springfield.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1739864" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S29</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230202151500 +0100" stop="20230202171500 +0100" channel="NEOX">
+    <title lang="es">Friends</title>
+    <title lang="en">TEMPORADA 6</title>
+    <desc lang="es">Comedia de situación compuesta por capítulos de 30 minutos de duración. El argumento de la serie se centra alrededor de la vida de seis amigos, tres chicos y tres chicas (Rachel, Monica, Phoebe, Chandler, Ross y Joey), residentes en Nueva York y encarados a la dura tarea de hacerse adultos. Enfrentados a sus primeros compromisos laborales, con dificultades sentimentales y una lealtad entre ellos a prueba de bomba, a lo largo de los episodios, las vicisitudes del grupo han calado hondo en los espectadores, gracias al tono realista, salpicado de pinceladas de humor, elegido por sus responsables, muy alejado de la simplicidad romántica e inocente de otros productos precedentes.(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matthew Perry</actor>
+      <composer>Michael Skloff</composer>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP181187" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S6</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230202171500 +0100" stop="20230202190000 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 3</title>
+    <desc lang="es">Charlie Harper es un soltero adinerado que tiene todo lo que un hombre necesita: una casa en la playa, un Jaguar en el garage y una buena mano con las mujeres. Su informal estilo de vida en Malibú es interrumpido drásticamente con la llegada de su hermano Alan, quien está muy deprimido tras afrontar un divorcio, y de su hijo de 10 años, Jake, que se mudan para quedarse a vivir con él.(n)</desc>
+    <credits>
+      <actor>Charlie Sheen</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Angus T. Jones</actor>
+      <writer>Chuck Lorre</writer>
+      <writer>Lee Aronsohn</writer>
+      <composer>Dennis C. Brown</composer>
+      <composer>Grant Geissman</composer>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP650743" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S3</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230202190000 +0100" stop="20230202211000 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 11</title>
+    <desc lang="es">Undécima temporada de la serie sobre Leonard y Sheldon, dos físicos muy peculiares.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+      <actor>Kevin Sussman</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1446814" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S11</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230202211000 +0100" stop="20230202223000 +0100" channel="NEOX">
+    <title lang="es">Mom</title>
+    <title lang="en">TEMPORADA 6</title>
+    <desc lang="es">En la sexta temporada de Mom seguiremos las andanzas de Christy en la universidad así como las nuevas locuras de Bonnie.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Allison Janney</actor>
+      <actor>Mimi Kennedy</actor>
+      <actor>Jaime Pressly</actor>
+      <actor>Beth Hall</actor>
+      <actor>William Fichtner</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1579509" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S6</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230202223000 +0100" stop="20230203004500 +0100" channel="NEOX">
+    <title lang="es">Ronin</title>
+    <desc lang="es">Un mercenario a sueldo viaja a París para realizar un trabajo del que no sabe nada. Allí conoce a sus futuros compañeros en la misión que se le encomienda: encontrar un maletín cuyo contenido es una incógnita y que provocará momentos de auténtico peligro.(n)</desc>
+    <credits>
+      <actor>Robert De Niro</actor>
+      <actor>Jean Reno</actor>
+      <actor>Natascha McElhone</actor>
+      <actor>Jonathan Pryce</actor>
+      <actor>Michael Lonsdale</actor>
+      <actor>Sean Bean</actor>
+      <actor>Stellan Skarsgård</actor>
+      <actor>Skipp Sudduth</actor>
+      <writer>David Mamet</writer>
+      <writer>J.D Zeik</writer>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP176932" />
+    <country lang="es">EE.UU, Francia y R.U</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203004500 +0100" stop="20230203025000 +0100" channel="NEOX">
+    <title lang="es">Análisis final</title>
+    <title lang="en">Final Analysis</title>
+    <desc lang="es">Isaac Barr es un reputado psiquiatra de San Francisco, un competente profesional con un control total sobre sí mismo y sobre todo lo que le rodea, que tiene como paciente a la inestable Diana Baylor, una mujer con una personalidad compleja marcada por el carácter de un padre violento e incestuoso y una serie de traumáticos acontecimientos de su pasado. Diana es todo un reto a su profesionalidad, por eso para avanzar en su tratamiento, Barr concierta una entrevista con la hermana de Diana. Nada más verla, Isaac se siente fascinado por ella y ambos comienzan una turbulenta relación. Ella está casada con un mafioso, un hombre al que odia pero del que no puede escapar. El tórrido romance pondrá en peligro la vida del psiquiatra y se complicará aún más por el misterio que esconde Diana.(n)</desc>
+    <credits>
+      <actor>Eric Roberts</actor>
+      <actor>Richard Gere</actor>
+      <actor>Uma Thurman</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Kim Basinger</actor>
+      <writer>Wesley Strick</writer>
+      <composer>George Fenton</composer>
+    </credits>
+    <date>1992</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP42471" />
+    <country lang="es">EE.UU</country>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203025000 +0100" stop="20230203033000 +0100" channel="NEOX">
+    <title lang="es">JOKERBET: ¡Damos Juego!</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Programa de casino y apuestas deportivas.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Variedades</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP2154605" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203033000 +0100" stop="20230203041500 +0100" channel="NEOX">
+    <title lang="es">Live casino</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos disponibles.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1531672" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203041500 +0100" stop="20230203051500 +0100" channel="NEOX">
+    <title lang="es">Los Goldberg</title>
+    <title lang="en">TEMPORADA 6</title>
+    <desc lang="es">Sexta temporada de esta serie ambientada en los años 80. La comedia narra las historias de los Goldberg, una familia con una madre protectora y un padre benevolente que tienen tres hijos en común; Erica la popular del clan, Barry un soñador apasionado y Adam, el más joven y futuro director de cine.(n)</desc>
+    <credits>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Hayley Orrantia</actor>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1579781" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S6</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203051500 +0100" stop="20230203054500 +0100" channel="NEOX">
+    <title lang="es">Minutos musicales</title>
+    <desc lang="es">Emisión de videoclips y piezas musicales.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Música</category>
+    <category lang="es">Videoclips</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP661411" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203054500 +0100" stop="20230203062000 +0100" channel="NEOX">
+    <title lang="es">Estación Neox</title>
+    <desc lang="es">Espacio musical dedicado a los solistas y grupos españoles del momento. Cada entrega contará con la actuación de un grupo o solista y entrevistas, precedido por un vídeo que recorre la trayectoria del artista o banda musical.(n)</desc>
+    <date>2008</date>
+    <category lang="es">Música</category>
+    <category lang="es">Concierto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M978388V931213" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203062000 +0100" stop="20230203070000 +0100" channel="NEOX">
+    <title lang="es">Bestial</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Nacho Sierra se encarga de mostrar a la audiencia lo que da de sí el reino animal. En este espacio tienen cabida desde las mascotas más exóticas hasta los animales de campo, sin olvidar el trabajo de veterinarios, etólogos y otros profesionales afines al este ámbito.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP971380" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203070000 +0100" stop="20230203101500 +0100" channel="NEOX">
+    <title lang="es">Neox Kidz</title>
+    <title lang="en">TEMPORADA 2021</title>
+    <desc lang="es">Edición especial del programa para celebrar las fiestas de Navidad.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1911139" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203101500 +0100" stop="20230203103800 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 4</title>
+    <desc lang="es">Cuarta temporada de "Big Bang", la comedia que sigue los avatares de Leonard y Sheldon, dos científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Sheldon no tiene filtros, carece de empatía social y sólo entiende el mundo desde la lógica de la física teórica. Leonard es igual de brillante como físico experimental, pero sus aspiraciones personales van más allá de su ingenio como científico. Sus únicos amigos son Raj, un astrofísico de origen hindú incapaz de hablar con las mujeres, y Howard, un ingeniero espacial que aún vive con su madre. La rutina de Sheldon y Leonard en su apartamento se ve trastocada por la llegada de Penny al piso de al lado, una actriz que trabaja como camarera mientras espera un éxito que nunca llega.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP915573" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203103800 +0100" stop="20230203110100 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 4</title>
+    <desc lang="es">Cuarta temporada de "Big Bang", la comedia que sigue los avatares de Leonard y Sheldon, dos científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Sheldon no tiene filtros, carece de empatía social y sólo entiende el mundo desde la lógica de la física teórica. Leonard es igual de brillante como físico experimental, pero sus aspiraciones personales van más allá de su ingenio como científico. Sus únicos amigos son Raj, un astrofísico de origen hindú incapaz de hablar con las mujeres, y Howard, un ingeniero espacial que aún vive con su madre. La rutina de Sheldon y Leonard en su apartamento se ve trastocada por la llegada de Penny al piso de al lado, una actriz que trabaja como camarera mientras espera un éxito que nunca llega.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP915573" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203110100 +0100" stop="20230203112500 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 4</title>
+    <desc lang="es">Cuarta temporada de "Big Bang", la comedia que sigue los avatares de Leonard y Sheldon, dos científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Sheldon no tiene filtros, carece de empatía social y sólo entiende el mundo desde la lógica de la física teórica. Leonard es igual de brillante como físico experimental, pero sus aspiraciones personales van más allá de su ingenio como científico. Sus únicos amigos son Raj, un astrofísico de origen hindú incapaz de hablar con las mujeres, y Howard, un ingeniero espacial que aún vive con su madre. La rutina de Sheldon y Leonard en su apartamento se ve trastocada por la llegada de Penny al piso de al lado, una actriz que trabaja como camarera mientras espera un éxito que nunca llega.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP915573" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203112500 +0100" stop="20230203114800 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 4</title>
+    <desc lang="es">Cuarta temporada de "Big Bang", la comedia que sigue los avatares de Leonard y Sheldon, dos científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Sheldon no tiene filtros, carece de empatía social y sólo entiende el mundo desde la lógica de la física teórica. Leonard es igual de brillante como físico experimental, pero sus aspiraciones personales van más allá de su ingenio como científico. Sus únicos amigos son Raj, un astrofísico de origen hindú incapaz de hablar con las mujeres, y Howard, un ingeniero espacial que aún vive con su madre. La rutina de Sheldon y Leonard en su apartamento se ve trastocada por la llegada de Penny al piso de al lado, una actriz que trabaja como camarera mientras espera un éxito que nunca llega.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP915573" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203114800 +0100" stop="20230203121100 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 4</title>
+    <desc lang="es">Cuarta temporada de "Big Bang", la comedia que sigue los avatares de Leonard y Sheldon, dos científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Sheldon no tiene filtros, carece de empatía social y sólo entiende el mundo desde la lógica de la física teórica. Leonard es igual de brillante como físico experimental, pero sus aspiraciones personales van más allá de su ingenio como científico. Sus únicos amigos son Raj, un astrofísico de origen hindú incapaz de hablar con las mujeres, y Howard, un ingeniero espacial que aún vive con su madre. La rutina de Sheldon y Leonard en su apartamento se ve trastocada por la llegada de Penny al piso de al lado, una actriz que trabaja como camarera mientras espera un éxito que nunca llega.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP915573" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S4</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203121100 +0100" stop="20230203123500 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 11</title>
+    <desc lang="es">Undécima temporada de la serie sobre Leonard y Sheldon, dos físicos muy peculiares.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+      <actor>Kevin Sussman</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1446814" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S11</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203123500 +0100" stop="20230203125800 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 13</title>
+    <desc lang="es">Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield. Está compuesta por Homer, empleado en una central nuclear, su mujer Marge, y sus tres hijos: Bart, el rey de las travesuras y de la irreverencia; Lisa, seria, responsable y muy inteligente, y Maggie, un bebé que contempla impávida las extravagantes situaciones en las que se ve envuelta su familia.(n)</desc>
+    <date>2001</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP468433" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S13</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203125800 +0100" stop="20230203132200 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 14</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge, y sus tres hijos.(n)</desc>
+    <date>2002</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP585508" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S14</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203132200 +0100" stop="20230203134500 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 16</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge, y sus tres hijos.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP585555" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S16</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203134500 +0100" stop="20230203140900 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 16</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge, y sus tres hijos.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP585555" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S16</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203140900 +0100" stop="20230203143200 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 22</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge y sus tres hijos.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1015787" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S22</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203143200 +0100" stop="20230203145600 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 22</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge y sus tres hijos.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1015787" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S22</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203145600 +0100" stop="20230203152000 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 23</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge y sus tres hijos.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1120820" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S23</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203152000 +0100" stop="20230203154500 +0100" channel="NEOX">
+    <title lang="es">Friends</title>
+    <title lang="en">TEMPORADA 5</title>
+    <desc lang="es">Comedia de situación compuesta por capítulos de 30 minutos de duración. El argumento de la serie se centra alrededor de la vida de seis amigos, tres chicos y tres chicas (Rachel, Monica, Phoebe, Chandler, Ross y Joey), residentes en Nueva York y encarados a la dura tarea de hacerse adultos. Enfrentados a sus primeros compromisos laborales, con dificultades sentimentales y una lealtad entre ellos a prueba de bomba, a lo largo de los episodios, las vicisitudes del grupo han calado hondo en los espectadores, gracias al tono realista, salpicado de pinceladas de humor, elegido por sus responsables, muy alejado de la simplicidad romántica e inocente de otros productos precedentes.(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matthew Perry</actor>
+      <composer>Michael Skloff</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP141029" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203154500 +0100" stop="20230203161000 +0100" channel="NEOX">
+    <title lang="es">Friends</title>
+    <title lang="en">TEMPORADA 5</title>
+    <desc lang="es">Comedia de situación compuesta por capítulos de 30 minutos de duración. El argumento de la serie se centra alrededor de la vida de seis amigos, tres chicos y tres chicas (Rachel, Monica, Phoebe, Chandler, Ross y Joey), residentes en Nueva York y encarados a la dura tarea de hacerse adultos. Enfrentados a sus primeros compromisos laborales, con dificultades sentimentales y una lealtad entre ellos a prueba de bomba, a lo largo de los episodios, las vicisitudes del grupo han calado hondo en los espectadores, gracias al tono realista, salpicado de pinceladas de humor, elegido por sus responsables, muy alejado de la simplicidad romántica e inocente de otros productos precedentes.(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matthew Perry</actor>
+      <composer>Michael Skloff</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP141029" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203161000 +0100" stop="20230203163500 +0100" channel="NEOX">
+    <title lang="es">Friends</title>
+    <title lang="en">TEMPORADA 5</title>
+    <desc lang="es">Comedia de situación compuesta por capítulos de 30 minutos de duración. El argumento de la serie se centra alrededor de la vida de seis amigos, tres chicos y tres chicas (Rachel, Monica, Phoebe, Chandler, Ross y Joey), residentes en Nueva York y encarados a la dura tarea de hacerse adultos. Enfrentados a sus primeros compromisos laborales, con dificultades sentimentales y una lealtad entre ellos a prueba de bomba, a lo largo de los episodios, las vicisitudes del grupo han calado hondo en los espectadores, gracias al tono realista, salpicado de pinceladas de humor, elegido por sus responsables, muy alejado de la simplicidad romántica e inocente de otros productos precedentes.(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matthew Perry</actor>
+      <composer>Michael Skloff</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP141029" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203163500 +0100" stop="20230203170000 +0100" channel="NEOX">
+    <title lang="es">Friends</title>
+    <title lang="en">TEMPORADA 5</title>
+    <desc lang="es">Comedia de situación compuesta por capítulos de 30 minutos de duración. El argumento de la serie se centra alrededor de la vida de seis amigos, tres chicos y tres chicas (Rachel, Monica, Phoebe, Chandler, Ross y Joey), residentes en Nueva York y encarados a la dura tarea de hacerse adultos. Enfrentados a sus primeros compromisos laborales, con dificultades sentimentales y una lealtad entre ellos a prueba de bomba, a lo largo de los episodios, las vicisitudes del grupo han calado hondo en los espectadores, gracias al tono realista, salpicado de pinceladas de humor, elegido por sus responsables, muy alejado de la simplicidad romántica e inocente de otros productos precedentes.(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matthew Perry</actor>
+      <composer>Michael Skloff</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP141029" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203170000 +0100" stop="20230203172500 +0100" channel="NEOX">
+    <title lang="es">Friends</title>
+    <title lang="en">TEMPORADA 5</title>
+    <desc lang="es">Comedia de situación compuesta por capítulos de 30 minutos de duración. El argumento de la serie se centra alrededor de la vida de seis amigos, tres chicos y tres chicas (Rachel, Monica, Phoebe, Chandler, Ross y Joey), residentes en Nueva York y encarados a la dura tarea de hacerse adultos. Enfrentados a sus primeros compromisos laborales, con dificultades sentimentales y una lealtad entre ellos a prueba de bomba, a lo largo de los episodios, las vicisitudes del grupo han calado hondo en los espectadores, gracias al tono realista, salpicado de pinceladas de humor, elegido por sus responsables, muy alejado de la simplicidad romántica e inocente de otros productos precedentes.(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>David Schwimmer</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matthew Perry</actor>
+      <composer>Michael Skloff</composer>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP141029" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203172500 +0100" stop="20230203174600 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 9</title>
+    <desc lang="es">Walden Schmidt es un millonario que aparece en el universo de los Harper cuando compra la casa de Malibú en la que viven, tras la muerte de Charlie.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Marin Hinkle</actor>
+      <writer>Chuck Lorre</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000977" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203174600 +0100" stop="20230203180700 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 9</title>
+    <desc lang="es">Walden Schmidt es un millonario que aparece en el universo de los Harper cuando compra la casa de Malibú en la que viven, tras la muerte de Charlie.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Marin Hinkle</actor>
+      <writer>Chuck Lorre</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000977" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203180700 +0100" stop="20230203182800 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 9</title>
+    <desc lang="es">Walden Schmidt es un millonario que aparece en el universo de los Harper cuando compra la casa de Malibú en la que viven, tras la muerte de Charlie.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Marin Hinkle</actor>
+      <writer>Chuck Lorre</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000977" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203182800 +0100" stop="20230203185000 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 11</title>
+    <desc lang="es">La familia Harper se encuentra extremadamente confundida con la aparición de Jenny, la hija perdida de Charlie quién dejó de ver después de que ella cumpliera los cuatro años de edad. Jenny, que tiene unos gustos muy parecidos a los de su padre, quiere conocer a lo que queda de su familia.(n)</desc>
+    <credits>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Amber Tamblyn</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1123151" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S11</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203185000 +0100" stop="20230203191300 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 5</title>
+    <desc lang="es">Quinta temporada de "Big Bang", la comedia que sigue los avatares de Leonard y Sheldon, dos científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Sheldon no tiene filtros, carece de empatía social y sólo entiende el mundo desde la lógica de la física teórica. Leonard es igual de brillante como físico experimental, pero sus aspiraciones personales van más allá de su ingenio como científico. Sus únicos amigos son Raj, un astrofísico de origen hindú incapaz de hablar con las mujeres, y Howard, un ingeniero espacial que aún vive con su madre. La rutina de Sheldon y Leonard en su apartamento se ve trastocada por la llegada de Penny al piso de al lado, una actriz que trabaja como camarera mientras espera un éxito que nunca llega.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000971" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203191300 +0100" stop="20230203193600 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 5</title>
+    <desc lang="es">Quinta temporada de "Big Bang", la comedia que sigue los avatares de Leonard y Sheldon, dos científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Sheldon no tiene filtros, carece de empatía social y sólo entiende el mundo desde la lógica de la física teórica. Leonard es igual de brillante como físico experimental, pero sus aspiraciones personales van más allá de su ingenio como científico. Sus únicos amigos son Raj, un astrofísico de origen hindú incapaz de hablar con las mujeres, y Howard, un ingeniero espacial que aún vive con su madre. La rutina de Sheldon y Leonard en su apartamento se ve trastocada por la llegada de Penny al piso de al lado, una actriz que trabaja como camarera mientras espera un éxito que nunca llega.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000971" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203193600 +0100" stop="20230203200000 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 5</title>
+    <desc lang="es">Quinta temporada de "Big Bang", la comedia que sigue los avatares de Leonard y Sheldon, dos científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Sheldon no tiene filtros, carece de empatía social y sólo entiende el mundo desde la lógica de la física teórica. Leonard es igual de brillante como físico experimental, pero sus aspiraciones personales van más allá de su ingenio como científico. Sus únicos amigos son Raj, un astrofísico de origen hindú incapaz de hablar con las mujeres, y Howard, un ingeniero espacial que aún vive con su madre. La rutina de Sheldon y Leonard en su apartamento se ve trastocada por la llegada de Penny al piso de al lado, una actriz que trabaja como camarera mientras espera un éxito que nunca llega.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000971" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203200000 +0100" stop="20230203202300 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 5</title>
+    <desc lang="es">Quinta temporada de "Big Bang", la comedia que sigue los avatares de Leonard y Sheldon, dos científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Sheldon no tiene filtros, carece de empatía social y sólo entiende el mundo desde la lógica de la física teórica. Leonard es igual de brillante como físico experimental, pero sus aspiraciones personales van más allá de su ingenio como científico. Sus únicos amigos son Raj, un astrofísico de origen hindú incapaz de hablar con las mujeres, y Howard, un ingeniero espacial que aún vive con su madre. La rutina de Sheldon y Leonard en su apartamento se ve trastocada por la llegada de Penny al piso de al lado, una actriz que trabaja como camarera mientras espera un éxito que nunca llega.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000971" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203202300 +0100" stop="20230203204600 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 5</title>
+    <desc lang="es">Quinta temporada de "Big Bang", la comedia que sigue los avatares de Leonard y Sheldon, dos científicos brillantes en lo suyo pero tremendamente torpes en sus relaciones personales. Sheldon no tiene filtros, carece de empatía social y sólo entiende el mundo desde la lógica de la física teórica. Leonard es igual de brillante como físico experimental, pero sus aspiraciones personales van más allá de su ingenio como científico. Sus únicos amigos son Raj, un astrofísico de origen hindú incapaz de hablar con las mujeres, y Howard, un ingeniero espacial que aún vive con su madre. La rutina de Sheldon y Leonard en su apartamento se ve trastocada por la llegada de Penny al piso de al lado, una actriz que trabaja como camarera mientras espera un éxito que nunca llega.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000971" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S5</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203204600 +0100" stop="20230203211000 +0100" channel="NEOX">
+    <title lang="es">Big Bang</title>
+    <title lang="en">TEMPORADA 11</title>
+    <desc lang="es">Undécima temporada de la serie sobre Leonard y Sheldon, dos físicos muy peculiares.(n)</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Johnny Galecki</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Melissa Rauch</actor>
+      <actor>Mayim Bialik</actor>
+      <actor>Kevin Sussman</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1446814" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S11</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203211000 +0100" stop="20230203213500 +0100" channel="NEOX">
+    <title lang="es">Mom</title>
+    <title lang="en">TEMPORADA 2</title>
+    <desc lang="es">Christy decide restablecer su vida en California tras dejar el alcohol y las drogas. Trabaja de camarera y asiste a reuniones de Alcohólicos Anónimos mientras trata de enmendar sus errores como madre soltera, cosa que no le será tan fácil.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Allison Janney</actor>
+      <actor>Mimi Kennedy</actor>
+      <actor>Jaime Pressly</actor>
+      <actor>Beth Hall</actor>
+      <actor>William Fichtner</actor>
+      <actor>Nate Corddry</actor>
+      <actor>Matt Jones</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1177856" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203213500 +0100" stop="20230203220000 +0100" channel="NEOX">
+    <title lang="es">Mom</title>
+    <title lang="en">TEMPORADA 2</title>
+    <desc lang="es">Christy decide restablecer su vida en California tras dejar el alcohol y las drogas. Trabaja de camarera y asiste a reuniones de Alcohólicos Anónimos mientras trata de enmendar sus errores como madre soltera, cosa que no le será tan fácil.(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Allison Janney</actor>
+      <actor>Mimi Kennedy</actor>
+      <actor>Jaime Pressly</actor>
+      <actor>Beth Hall</actor>
+      <actor>William Fichtner</actor>
+      <actor>Nate Corddry</actor>
+      <actor>Matt Jones</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1177856" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230203220000 +0100" stop="20230204003000 +0100" channel="NEOX">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204003000 +0100" stop="20230204021000 +0100" channel="NEOX">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204021000 +0100" stop="20230204023000 +0100" channel="NEOX">
+    <title lang="es">Los Goldberg</title>
+    <title lang="en">TEMPORADA 8</title>
+    <desc lang="es">Octava temporada de esta serie ambientada en los años 80. La comedia narra las historias de los Goldberg, una familia con una madre protectora y un padre benevolente que tienen tres hijos en común; Erica la popular del clan, Barry un soñador apasionado y Adam, el más joven y futuro director de cine.(n)</desc>
+    <credits>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Hayley Orrantia</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1928022" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204023000 +0100" stop="20230204032000 +0100" channel="NEOX">
+    <title lang="es">Play Uzu Nights</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Variedades</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1807649" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204032000 +0100" stop="20230204041500 +0100" channel="NEOX">
+    <title lang="es">Live casino</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos disponibles.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1531672" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204041500 +0100" stop="20230204053500 +0100" channel="NEOX">
+    <title lang="es">Minutos musicales</title>
+    <desc lang="es">Emisión de videoclips y piezas musicales.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Música</category>
+    <category lang="es">Videoclips</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP661411" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204053500 +0100" stop="20230204055500 +0100" channel="NEOX">
+    <title lang="es">Desviados</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Sigue las peripecias de los Parker en lo que se suponía que iba a ser un tranquilo viaje de vacaciones y se ha convertido en una auténtica locura.(n)</desc>
+    <credits>
+      <actor>Jason Jones</actor>
+      <actor>Natalie Zea</actor>
+      <actor>Ashley Gerasimovich</actor>
+      <actor>Liam Carroll</actor>
+      <actor>Daniella Pineda</actor>
+      <actor>Laura Benanti</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1288151" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204055500 +0100" stop="20230204060000 +0100" channel="NEOX">
+    <title lang="es">Desviados</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Sigue las peripecias de los Parker en lo que se suponía que iba a ser un tranquilo viaje de vacaciones y se ha convertido en una auténtica locura.(n)</desc>
+    <credits>
+      <actor>Jason Jones</actor>
+      <actor>Natalie Zea</actor>
+      <actor>Ashley Gerasimovich</actor>
+      <actor>Liam Carroll</actor>
+      <actor>Daniella Pineda</actor>
+      <actor>Laura Benanti</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1288151" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204060000 +0100" stop="20230204063000 +0100" channel="NEOX">
+    <title lang="es">Desviados</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Sigue las peripecias de los Parker en lo que se suponía que iba a ser un tranquilo viaje de vacaciones y se ha convertido en una auténtica locura.(n)</desc>
+    <credits>
+      <actor>Jason Jones</actor>
+      <actor>Natalie Zea</actor>
+      <actor>Ashley Gerasimovich</actor>
+      <actor>Liam Carroll</actor>
+      <actor>Daniella Pineda</actor>
+      <actor>Laura Benanti</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1288151" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204063000 +0100" stop="20230204070000 +0100" channel="NEOX">
+    <title lang="es">Desviados</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Sigue las peripecias de los Parker en lo que se suponía que iba a ser un tranquilo viaje de vacaciones y se ha convertido en una auténtica locura.(n)</desc>
+    <credits>
+      <actor>Jason Jones</actor>
+      <actor>Natalie Zea</actor>
+      <actor>Ashley Gerasimovich</actor>
+      <actor>Liam Carroll</actor>
+      <actor>Daniella Pineda</actor>
+      <actor>Laura Benanti</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1288151" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204070000 +0100" stop="20230204095500 +0100" channel="NEOX">
+    <title lang="es">Neox Kidz</title>
+    <title lang="en">TEMPORADA 2021</title>
+    <desc lang="es">Edición especial del programa para celebrar las fiestas de Navidad.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1911139" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204095500 +0100" stop="20230204100500 +0100" channel="NEOX">
+    <title lang="es">Hazte eco</title>
+    <desc lang="es">Espacio de Neox en colaboración con Greenpeace dedicado a la ciencia, la ecología y las energías renovables. Un programa dedicado al planeta con reportajes de actualidad sobre temas tan interesantes como la deforestación o el reciclaje de papel.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Cultural/Educativo</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP979515" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204100500 +0100" stop="20230204102800 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 9</title>
+    <desc lang="es">Walden Schmidt es un millonario que aparece en el universo de los Harper cuando compra la casa de Malibú en la que viven, tras la muerte de Charlie.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Marin Hinkle</actor>
+      <writer>Chuck Lorre</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000977" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204102800 +0100" stop="20230204105100 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 9</title>
+    <desc lang="es">Walden Schmidt es un millonario que aparece en el universo de los Harper cuando compra la casa de Malibú en la que viven, tras la muerte de Charlie.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Marin Hinkle</actor>
+      <writer>Chuck Lorre</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000977" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204105100 +0100" stop="20230204111500 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 9</title>
+    <desc lang="es">Walden Schmidt es un millonario que aparece en el universo de los Harper cuando compra la casa de Malibú en la que viven, tras la muerte de Charlie.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Marin Hinkle</actor>
+      <writer>Chuck Lorre</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000977" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204111500 +0100" stop="20230204113800 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 9</title>
+    <desc lang="es">Walden Schmidt es un millonario que aparece en el universo de los Harper cuando compra la casa de Malibú en la que viven, tras la muerte de Charlie.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Marin Hinkle</actor>
+      <writer>Chuck Lorre</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000977" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204113800 +0100" stop="20230204120100 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 11</title>
+    <desc lang="es">La familia Harper se encuentra extremadamente confundida con la aparición de Jenny, la hija perdida de Charlie quién dejó de ver después de que ella cumpliera los cuatro años de edad. Jenny, que tiene unos gustos muy parecidos a los de su padre, quiere conocer a lo que queda de su familia.(n)</desc>
+    <credits>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Amber Tamblyn</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1123151" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S11</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204120100 +0100" stop="20230204122500 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 11</title>
+    <desc lang="es">La familia Harper se encuentra extremadamente confundida con la aparición de Jenny, la hija perdida de Charlie quién dejó de ver después de que ella cumpliera los cuatro años de edad. Jenny, que tiene unos gustos muy parecidos a los de su padre, quiere conocer a lo que queda de su familia.(n)</desc>
+    <credits>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Amber Tamblyn</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1123151" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S11</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204122500 +0100" stop="20230204125000 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 23</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge y sus tres hijos.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1120820" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S23</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204125000 +0100" stop="20230204131500 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 23</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge y sus tres hijos.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1120820" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S23</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204131500 +0100" stop="20230204134000 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 22</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge y sus tres hijos.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1015787" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S22</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204134000 +0100" stop="20230204140500 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 13</title>
+    <desc lang="es">Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield. Está compuesta por Homer, empleado en una central nuclear, su mujer Marge, y sus tres hijos: Bart, el rey de las travesuras y de la irreverencia; Lisa, seria, responsable y muy inteligente, y Maggie, un bebé que contempla impávida las extravagantes situaciones en las que se ve envuelta su familia.(n)</desc>
+    <date>2001</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP468433" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S13</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204140500 +0100" stop="20230204143000 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 14</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge, y sus tres hijos.(n)</desc>
+    <date>2002</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP585508" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S14</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204143000 +0100" stop="20230204145500 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 16</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge, y sus tres hijos.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP585555" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S16</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204145500 +0100" stop="20230204152000 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 16</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge, y sus tres hijos.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP585555" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S16</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204152000 +0100" stop="20230204154500 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 16</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge, y sus tres hijos.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP585555" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S16</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204154500 +0100" stop="20230204180500 +0100" channel="NEOX">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204180500 +0100" stop="20230204200500 +0100" channel="NEOX">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204200500 +0100" stop="20230204220000 +0100" channel="NEOX">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230204220000 +0100" stop="20230205002000 +0100" channel="NEOX">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205002000 +0100" stop="20230205020000 +0100" channel="NEOX">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205020000 +0100" stop="20230205022000 +0100" channel="NEOX">
+    <title lang="es">Los Goldberg</title>
+    <title lang="en">TEMPORADA 8</title>
+    <desc lang="es">Octava temporada de esta serie ambientada en los años 80. La comedia narra las historias de los Goldberg, una familia con una madre protectora y un padre benevolente que tienen tres hijos en común; Erica la popular del clan, Barry un soñador apasionado y Adam, el más joven y futuro director de cine.(n)</desc>
+    <credits>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Hayley Orrantia</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1928022" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205022000 +0100" stop="20230205031500 +0100" channel="NEOX">
+    <title lang="es">Play Uzu Nights</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Variedades</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1807649" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205031500 +0100" stop="20230205040000 +0100" channel="NEOX">
+    <title lang="es">Live casino</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos disponibles.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1531672" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205040000 +0100" stop="20230205053500 +0100" channel="NEOX">
+    <title lang="es">Minutos musicales</title>
+    <desc lang="es">Emisión de videoclips y piezas musicales.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Música</category>
+    <category lang="es">Videoclips</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP661411" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205053500 +0100" stop="20230205055500 +0100" channel="NEOX">
+    <title lang="es">Desviados</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Sigue las peripecias de los Parker en lo que se suponía que iba a ser un tranquilo viaje de vacaciones y se ha convertido en una auténtica locura.(n)</desc>
+    <credits>
+      <actor>Jason Jones</actor>
+      <actor>Natalie Zea</actor>
+      <actor>Ashley Gerasimovich</actor>
+      <actor>Liam Carroll</actor>
+      <actor>Daniella Pineda</actor>
+      <actor>Laura Benanti</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1288151" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205055500 +0100" stop="20230205060000 +0100" channel="NEOX">
+    <title lang="es">Desviados</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Sigue las peripecias de los Parker en lo que se suponía que iba a ser un tranquilo viaje de vacaciones y se ha convertido en una auténtica locura.(n)</desc>
+    <credits>
+      <actor>Jason Jones</actor>
+      <actor>Natalie Zea</actor>
+      <actor>Ashley Gerasimovich</actor>
+      <actor>Liam Carroll</actor>
+      <actor>Daniella Pineda</actor>
+      <actor>Laura Benanti</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1288151" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205060000 +0100" stop="20230205063000 +0100" channel="NEOX">
+    <title lang="es">Desviados</title>
+    <title lang="en">TEMPORADA 2</title>
+    <desc lang="es">Sigue las peripecias de los Parker en lo que se suponía que iba a ser un tranquilo viaje de vacaciones y se ha convertido en una auténtica locura.(n)</desc>
+    <credits>
+      <actor>Jason Jones</actor>
+      <actor>Natalie Zea</actor>
+      <actor>Ashley Gerasimovich</actor>
+      <actor>Liam Carroll</actor>
+      <actor>Daniella Pineda</actor>
+      <actor>Laura Benanti</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1384452" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205063000 +0100" stop="20230205070000 +0100" channel="NEOX">
+    <title lang="es">Desviados</title>
+    <title lang="en">TEMPORADA 2</title>
+    <desc lang="es">Sigue las peripecias de los Parker en lo que se suponía que iba a ser un tranquilo viaje de vacaciones y se ha convertido en una auténtica locura.(n)</desc>
+    <credits>
+      <actor>Jason Jones</actor>
+      <actor>Natalie Zea</actor>
+      <actor>Ashley Gerasimovich</actor>
+      <actor>Liam Carroll</actor>
+      <actor>Daniella Pineda</actor>
+      <actor>Laura Benanti</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1384452" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S2</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205070000 +0100" stop="20230205101000 +0100" channel="NEOX">
+    <title lang="es">Neox Kidz</title>
+    <title lang="en">TEMPORADA 2021</title>
+    <desc lang="es">Edición especial del programa para celebrar las fiestas de Navidad.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Infantil</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1911139" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205101000 +0100" stop="20230205103200 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 9</title>
+    <desc lang="es">Walden Schmidt es un millonario que aparece en el universo de los Harper cuando compra la casa de Malibú en la que viven, tras la muerte de Charlie.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Marin Hinkle</actor>
+      <writer>Chuck Lorre</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000977" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205103200 +0100" stop="20230205105500 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 9</title>
+    <desc lang="es">Walden Schmidt es un millonario que aparece en el universo de los Harper cuando compra la casa de Malibú en la que viven, tras la muerte de Charlie.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Marin Hinkle</actor>
+      <writer>Chuck Lorre</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000977" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205105500 +0100" stop="20230205111700 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 9</title>
+    <desc lang="es">Walden Schmidt es un millonario que aparece en el universo de los Harper cuando compra la casa de Malibú en la que viven, tras la muerte de Charlie.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Marin Hinkle</actor>
+      <writer>Chuck Lorre</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000977" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205111700 +0100" stop="20230205114000 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 9</title>
+    <desc lang="es">Walden Schmidt es un millonario que aparece en el universo de los Harper cuando compra la casa de Malibú en la que viven, tras la muerte de Charlie.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Marin Hinkle</actor>
+      <writer>Chuck Lorre</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000977" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205114000 +0100" stop="20230205120200 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 9</title>
+    <desc lang="es">Walden Schmidt es un millonario que aparece en el universo de los Harper cuando compra la casa de Malibú en la que viven, tras la muerte de Charlie.(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Marin Hinkle</actor>
+      <writer>Chuck Lorre</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1000977" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S9</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205120200 +0100" stop="20230205122500 +0100" channel="NEOX">
+    <title lang="es">Dos hombres y medio</title>
+    <title lang="en">TEMPORADA 11</title>
+    <desc lang="es">La familia Harper se encuentra extremadamente confundida con la aparición de Jenny, la hija perdida de Charlie quién dejó de ver después de que ella cumpliera los cuatro años de edad. Jenny, que tiene unos gustos muy parecidos a los de su padre, quiere conocer a lo que queda de su familia.(n)</desc>
+    <credits>
+      <actor>Holland Taylor</actor>
+      <actor>Melanie Lynskey</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Conchata Ferrell</actor>
+      <actor>Jon Cryer</actor>
+      <actor>Marin Hinkle</actor>
+      <actor>Angus T. Jones</actor>
+      <actor>Amber Tamblyn</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1123151" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S11</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205122500 +0100" stop="20230205124900 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 23</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge y sus tres hijos.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1120820" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S23</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205124900 +0100" stop="20230205131300 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 22</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge y sus tres hijos.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1015787" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S22</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205131300 +0100" stop="20230205133800 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 22</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge y sus tres hijos.(n)</desc>
+    <date>2011</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1015787" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S22</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205133800 +0100" stop="20230205140200 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 13</title>
+    <desc lang="es">Los Simpson son una familia media americana políticamente incorrecta que vive en la ficticia ciudad de Springfield. Está compuesta por Homer, empleado en una central nuclear, su mujer Marge, y sus tres hijos: Bart, el rey de las travesuras y de la irreverencia; Lisa, seria, responsable y muy inteligente, y Maggie, un bebé que contempla impávida las extravagantes situaciones en las que se ve envuelta su familia.(n)</desc>
+    <date>2001</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP468433" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S13</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205140200 +0100" stop="20230205142600 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 16</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge, y sus tres hijos.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP585555" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S16</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205142600 +0100" stop="20230205145100 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 16</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge, y sus tres hijos.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP585555" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S16</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205145100 +0100" stop="20230205151500 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 16</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge, y sus tres hijos.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP585555" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S16</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205151500 +0100" stop="20230205154000 +0100" channel="NEOX">
+    <title lang="es">Los Simpson</title>
+    <title lang="en">TEMPORADA 16</title>
+    <desc lang="es">Los Simpson son una familia media americana compuesta por Homer, su mujer Marge, y sus tres hijos.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP585555" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S16</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205154000 +0100" stop="20230205180000 +0100" channel="NEOX">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205180000 +0100" stop="20230205201000 +0100" channel="NEOX">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205201000 +0100" stop="20230205220000 +0100" channel="NEOX">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230205220000 +0100" stop="20230206003000 +0100" channel="NEOX">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230206003000 +0100" stop="20230206020000 +0100" channel="NEOX">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230206020000 +0100" stop="20230206022000 +0100" channel="NEOX">
+    <title lang="es">Los Goldberg</title>
+    <title lang="en">TEMPORADA 8</title>
+    <desc lang="es">Octava temporada de esta serie ambientada en los años 80. La comedia narra las historias de los Goldberg, una familia con una madre protectora y un padre benevolente que tienen tres hijos en común; Erica la popular del clan, Barry un soñador apasionado y Adam, el más joven y futuro director de cine.(n)</desc>
+    <credits>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Hayley Orrantia</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1928022" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230206022000 +0100" stop="20230206024000 +0100" channel="NEOX">
+    <title lang="es">Los Goldberg</title>
+    <title lang="en">TEMPORADA 8</title>
+    <desc lang="es">Octava temporada de esta serie ambientada en los años 80. La comedia narra las historias de los Goldberg, una familia con una madre protectora y un padre benevolente que tienen tres hijos en común; Erica la popular del clan, Barry un soñador apasionado y Adam, el más joven y futuro director de cine.(n)</desc>
+    <credits>
+      <actor>George Segal</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Troy Gentile</actor>
+      <actor>Wendi McLendon-Covey</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Hayley Orrantia</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1928022" />
+    <country lang="es">EE.UU</country>
+    <episode-num system="onscreen">S8</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230206024000 +0100" stop="20230206033000 +0100" channel="NEOX">
+    <title lang="es">Play Uzu Nights</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Variedades</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1807649" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230206033000 +0100" stop="20230206042000 +0100" channel="NEOX">
+    <title lang="es">Live casino</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos disponibles.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP1531672" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20230206042000 +0100" stop="20230206061500 +0100" channel="NEOX">
+    <title lang="es">Minutos musicales</title>
+    <desc lang="es">Emisión de videoclips y piezas musicales.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Música</category>
+    <category lang="es">Videoclips</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MNEOXP661411" />
     <rating system="ES">
       <value>TP</value>
       <icon src="http://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
