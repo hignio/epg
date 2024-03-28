@@ -1,0 +1,33 @@
+cd /media/ginio/ab5f0d23-b711-4e22-a71f-a3c54603fc90 && sudo tar -xpzvf configbackup.tar.gz -C /home/ginio/ &&
+cd /home/ginio/.config && mkdir rclone && cp -r /media/ginio/ab5f0d23-b711-4e22-a71f-a3c54603fc90/.config/rclone/ /home/.config/rclone/
+cd /home/ginio && mkdir scripts && cp -r /media/ginio/ab5f0d23-b711-4e22-a71f-a3c54603fc90/scripts /home/ginio/scripts
+cd /home/ginio && mkdir compose && cp -r /media/ginio/ab5f0d23-b711-4e22-a71f-a3c54603fc90/compose /home/ginio/compose
+sudo apt update && sudo apt upgrade -y &&
+sudo apt install apt-transport-https ca-certificates curl dirmngr nano mc htop wget screen nano samba smbclient cifs-utils -y &&
+sudo mkdir -m 0755 -p /etc/apt/keyrings &&
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg &&
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null &&
+sudo chmod a+r /etc/apt/keyrings/docker.gpg &&
+sudo apt update && sudo apt upgrade -y &&
+sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin docker-compose openssh-server lm-sensors -y &&
+#speedtest
+curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | sudo bash &&
+sudo apt-get install speedtest -y &&
+#samba y rclone
+sudo apt-get remove ufw &&
+sudo systemctl enable --now smbd &&
+curl https://rclone.org/install.sh | sudo bash &&
+sudo usermod -aG sudo,adm,docker,sambashare ginio &&
+sudo smbpasswd -a ginio &&
+#configurar servidor samba
+sudo mv /etc/samba/smb.conf /etc/samba/smb.conf.vieyu1 &&
+sudo echo -e "#======================= Global Settings =======================\n[global]\nworkgroup = WORKGROUP\nserver string = %h server\nlog file = /var/log/samba/log.%m\nlog level = 0\nmax log size = 1000\nlogging = syslog\npanic action = /usr/share/samba/panic-action %d\nunix password sync = yes\npasswd program = /usr/bin/passwd %u" >> smb.conf && sudo echo "passwd chat = *Enter\snew\s*\spassword:* %n\n *Retype\snew\s*\spassword:* %n\n *password\supdated\ssuccessfully* . " >> smb.conf  && sudo echo -e "pam password change = yes\ndns proxy = no\npassdb backend = tdbsam\nobey pam restrictions = no\nsocket options = TCP_NODELAY IPTOS_LOWDELAY\nguest account = nobody\nload printers = no\ndisable spoolss = yes\nprinting = bsd\nprintcap name = /dev/null\nunix extensions = yes\nwide links = no\ncreate mask = 0777\ndirectory mask = 0777\nuse sendfile = yes\naio read size = 1\naio write size = 1\ntime server = no\nwins support = yes\ndisable netbios = yes\nmulticast dns register = no \n# Special configuration for Apple's Time Machine\nfruit:aapl = yes\nfruit:copyfile = yes\nfruit:nfs_aces = no\n #======================= Share Definitions =======================\n #======================= docker =======================\n[docker]\npath = /home/ginio/config\nguest ok = no\nguest only = no\npublic = yes\nbrowseable = yes\nprintable = no\nwritable = yes\ncreate mask = 0777\ndirectory mask = 0777\nforce user = ginio\nforce group = ginio\nvalid users = ginio\nhide special files = yes\nfollow symlinks = yes\nhide dot files = yes\nstore dos attributes = yes\ninherit permissions = yes\n #======================= declaraciones hacienda =======================\n[declaraciones hacienda]\npath = /media/ginio/SSD/declaraciones hacienda\nguest ok = no\nguest only = no\npublic = yes\nbrowseable = yes\nprintable = no\nwritable = yes\ncreate mask = 0777\ndirectory mask = 0777\nforce user = ginio\nforce group = ginio\nvalid users = ginio\nhide special files = yes\nfollow symlinks = yes\nhide dot files = yes\nstore dos attributes = yes\ninherit permissions = yes\n #======================= descargas=======================\n[descargas]\npath = /media/ginio/SSD/descargas\nguest ok = no\nguest only = no\npublic = yes\nbrowseable = yes\nprintable = no\nwritable = yes\ncreate mask = 0777\ndirectory mask = 0777\nforce user = ginio\nforce group = ginio\nvalid users = ginio\nhide special files = yes\nfollow symlinks = yes\nhide dot files = yes\nstore dos attributes = yes\ninherit permissions = yes \n #======================= pelis y series =======================\n[pelisyseries]\npath = /media/ginio/SSD/pelisyseries\nguest ok = no\nguest only = no\npublic = yes\nbrowseable = yes\nprintable = no\nwritable = yes\ncreate mask = 0777\ndirectory mask = 0777\nforce user = ginio\nforce group = ginio\nvalid users = ginio\nhide special files = yes\nfollow symlinks = yes\nhide dot files = yes\nstore dos attributes = yes\ninherit permissions = yes\n #======================= vhs =======================\n[vhs]\npath = /media/ginio/SSD/vhs\nguest ok = no\nguest only = no\npublic = yes\nbrowseable = yes\nprintable = no\nwritable = yes\ncreate mask = 0777\ndirectory mask = 0777\nforce user = ginio\nforce group = ginio\nvalid users = ginio\nhide special files = yes\nfollow symlinks = yes\nhide dot files = yes\nstore dos attributes = yes\ninherit permissions = yes" >> smb.conf &&
+sudo mv /home/ginio/smb.conf /etc/samba &&
+#ssh
+cd /home/ginio && mkdir .ssh && cd .ssh
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCTxWO2h+ZBWCpmqNISd6LHlwtMeqzk5pYeAUXhGB6EVb6TTj3OSKjwabWc47jcHu7hFnj6xfGBhIxeK/1Do81Sls+VAyooJzXRDI9zNLZpe+g6+ymwlQ9PvEMRLbKxc1zH4XS055IznJqOET6ZN5vLmYJtb2amBVanlww5qOu4W/AwHJbz4rlHySxzBCUS6+w2/vjRy4kE+cLyxr16C0R6ud910wxbJN7xcaLaPBfPVOb4UUf4IMxxeQOxLBU1+wSZqiBflTKcr4CplO8STcGZeG+fw8w5GtMu9J/LRL8APLWIWIkTT/zYj/4krlCdzExFV6fCB/iwHW3z63Bjr0sP movil"  >> authorized_keys && 
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCK0A1Zc4F05NAvKM+nuAjdrmfFuJkQBR3i50oWrYaf9F6KxjcjSUdLpKoIm3SIJlCB1SYQBFZ71389iMyOykx2C1LLIMFX6IlzZqguLhRy5gEh0k6gx6dDK0JGTPvBhyYM/1XA4/Ihb568b1jj9s1LaM6etv7cEgDZlJ3OIuH/dJP4iQosbUWpBpPW9NVsKZwE13pEk/9TkkoQiyUOrbWCHFhGFxDjLUzZ3yCBKe40cpLdzYtnRo82osv0/9BiNkFdKzGlDZLjRt712xJJoc8vVh7LHRFqeqHNLcVffEH/Edl8SQHy4AVh5iwOJKjup94ZPVVfgSJBF7msh9tLLKSj moreda"  >> authorized_keys &&
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCRZ/noRosQUznb3Z2Iq8Yz4bsX2oSEqZ5TScgT5wwfxLId2FchU6MNg8RdqIHTmyODdsSC8DA5XocIQm4DZwG/gceCe6yBnU6lAa2Lnj5xNdQcgybY/vd4vAZX8hiF6Z9sJXc7KT6vBrWWkJ8FcpnbAfg7BdU2vmZ4z7p8aNrbIhhOZL5I3CQyowkjK8068SxGmDCwO8TV/AiUDKElMAV6CwbRaaOhV6jy+dA3ZotCOSCZMM6iq8bCXvSOuzGDU39ac/gQpxlz8iJoPD8/8PI1J4LA0SgmwTbptc5Z7EBfm0aW35tcavop/GGAH/GpTaj7CJ8v3Aigmt3gqC2h7H73 puerto"  >> authorized_keys && 
+cd /media/ginio && sudo mkdir SSD &&  ln -s /media/ginio/SSD ~/discu && sudo cp -a /etc/fstab /etc/fstabold && echo -e "\n#\nUUID=ab5f0d23-b711-4e22-a71f-a3c54603fc90 /media/ginio/SSD ext4 defaults 0 0" | sudo tee -a /etc/fstab &&
+sudo service smbd reload && sudo service smbd restart &&
+sudo sensors-detect

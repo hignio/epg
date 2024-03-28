@@ -1,0 +1,14 @@
+en puerto la carpeta de renombrarla a pelisyseries y facer docker.tar y la uuid y carpeta con uuid de to los sh de instalacion por la uuid del discu 
+
+
+comprobar q el discuen los sh y tenga uuid q sal al poner lsblk -o NAME,FSTYPE,UUID,MOUNTPOINTS
+
+cp /media/ginio/ab5f0d23-b711-4e22-a71f-a3c54603fc90/instalar && sudo apt install megatools && sh /home/ginio/instalar.sh
+
+poner ip fija wifi y en lo de energia cambiar lo de apagar monitor
+reiniciar y ejecutar sh instalar1.sh (si no cambio na esto no fay falta cambiar en el docker compose de webgrab en moreda la mac ye 00:00:00:00:00:03 y en puerto 00:00:00:00:00:04 )
+en copiahetzner.sh cambiar la velocidad
+entrar por portainer en el docker de webgrab y ejecutar
+sh /config/scripts/instalargithub.sh
+cuando se detnega copiar li q sal en pantalla, entar en github.com e introducirlo como nueva ssh, luego en portainer conrtolx pa q siga
+sh instalar1.sh
